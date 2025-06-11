@@ -9,10 +9,10 @@
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-(https://github.com/user-attachments/assets/605ecec6-b151-419e-88a6-8634cb4b72a4)
+https://github.com/user-attachments/assets/605ecec6-b151-419e-88a6-8634cb4b72a4
 
 ### 🛒 Products of the Week
-(https://github.com/user-attachments/assets/2b069858-69dc-400f-8d63-d89cb31426bf)
+https://github.com/user-attachments/assets/2b069858-69dc-400f-8d63-d89cb31426bf
 
 
 ---
