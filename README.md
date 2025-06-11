@@ -15,6 +15,11 @@
 ### 🛒 Products of the Week
 ![img2](https://github.com/user-attachments/assets/c91332f2-cfbe-4f65-9441-41df29c528b3)
 
+### 👜 Accessories
+![img3](https://github.com/user-attachments/assets/6dc609ca-3bec-4913-87e7-fbcebe6452ad)
+
+### 📝 Blog
+![img4](https://github.com/user-attachments/assets/740f15c8-0f1b-4732-93fd-80a7d4fccd5a)
 
 ---
 
@@ -23,7 +28,6 @@
 - 💻 HTML5
 - 🎨 CSS3
 - 🧩 Bootstrap 5
-- ⚙️ Vanilla JavaScript
 
 ---
 
